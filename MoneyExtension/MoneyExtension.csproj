@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions</PackageId>
-    <Version>1.0.0</Version>
+    <PackageId>CaioHolanda.MoneyExtensions</PackageId>
+    <Version>1.0.1</Version>
     <!-- <icon>https://....</icon> -->
     <License>MIT</License>
     <Authors>Caio Holanda</Authors>
@@ -19,7 +19,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decimal;converter</PackageTags>
     <!-- <ReleaseNotes>...<ReleaseNotes> -->
-    <Title>MoneyExtensions</Title>
+    <Title>CaioHolanda.MoneyExtensions</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
   <ItemGroup>
